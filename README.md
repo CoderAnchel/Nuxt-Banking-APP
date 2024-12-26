@@ -1,7 +1,7 @@
 # Nuxt Banking App
 ![Sin título-2024-11-22-1530](https://github.com/user-attachments/assets/fa37068f-53a0-45be-8309-569fbde5accf)
 
-Modern Web Dashboard working as UI for my Go Banking system capable of login, make friends, transactions, deposits, withdraws, even buy stocks from real data using my own API this projects shows the full potetntial of my banking system simulator build in GO check it!.
+Modern Web Dashboard working as UI for my Go Banking system capable of login, make friends, transactions, deposits, withdraws, even buy stocks from real data using my own API this projects shows the full potential of my banking system simulator build in GO check it out!.
 https://github.com/CoderAnchel/GOBankingSystem
 ![Captura de pantalla 2024-12-26 a las 21 21 23](https://github.com/user-attachments/assets/56e45fc2-9d83-43c9-8264-7ed4b76425b1)
 
